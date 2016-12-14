@@ -57,7 +57,7 @@ TRAJECTORY_BUILDER_2D = {
   num_odometry_states = 1000,
 
   submaps = {
-    resolution = 0.05,
+    resolution = 0.025,
     half_length = 200.,
     num_laser_fans = 90,
     output_debug_images = false,
